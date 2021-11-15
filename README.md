@@ -8,5 +8,6 @@ En este curso veremos de todo :
 * Elverdadero amor por las buenas practicas
 * Trucos muy buenos del profesor 
 * Las personalidades multiples de freddy
+* creado por el increible platzi team
 
 y como un amable recordatorio este este readme es un chiste 
