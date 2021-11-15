@@ -9,5 +9,6 @@ En este curso veremos de todo :
 * Trucos muy buenos del profesor 
 * Las personalidades multiples de freddy
 * creado por el increible platzi team
+* incluye ejemplos en windos,  linux y Mac 
 
 y como un amable recordatorio este este readme es un chiste 
